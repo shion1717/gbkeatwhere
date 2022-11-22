@@ -1,0 +1,78 @@
+Location,Store,Cuisine,Seating,UnitNo
+BPP,Ah Ma Chi Mian,Chinese,Yes,#01-58/59
+BPP,Ajisen Ramen,Japanese,Yes,#01-36
+BPP,Ajumma's,Korean,Yes,#03-10A
+BPP,Andes by Astons,Western,Yes,#03-10
+BPP,BBQ Express,Western,Limited,#01-40
+BPP,Burger King,Fast Food,Yes,#01-28
+BPP,Crave,Malay,No,#01-18
+BPP,Don n Bap,Fusion,No,#01-43
+BPP,Gado & Grill,Indonesian,Yes,#01-42
+BPP,Gochi-So Shokudo,Japanese,Yes,#02-19/19A
+BPP,Ichiban Sushi,Japanese,Yes,#01-37/38
+BPP,KFC,Fast Food,Yes,#02-12/13
+BPP,Koo Kee Yong Tau Foo,Chinese,Yes,#01-48/49/50
+BPP,McDonald's,Fast Food,Yes,#02-01
+BPP,Nene Chicken,Fast Food,Yes,#02-10
+BPP,Old Street Bak Kut Teh,Chinese,Yes,#03-09A
+BPP,Pezzo,Italian,No,#01-55
+BPP,Pizza Hut,Italian,Yes,#02-14/15
+BPP,Punggol Nasi Padang,Malay,Yes,#01-60/61
+BPP,Shan Cheng,Chinese,Yes,#01-56/57
+BPP,Streats Hong Kong Cafe,Chinese,Yes,#02-17
+BPP,Subway,Fast Food,Yes,#02-11
+BPP,Sushi Deli,Japanese,No,#01-68
+BPP,Swensen's,Western,Yes,#03-04
+BPP,The Original Boat Noodle,Thai,Yes,#02-18/18A
+BPP,Tonkotsu Kazan Ramen,Japanese,Yes,#01-64/65
+BPP,Tun Xiang,Chinese,Yes,#02-19/19A
+BPP,Wok Hey,Chinese,No,#01-69
+BPP,Yu Ding,Chinese,No,#01-44
+BPP,Kopitiam,Various,Yes,#03-08/09
+Hillion,A-One Claypot House,Chinese,Yes,#01-11/12
+Hillion,An Acai Affair,Vegan,Yes,#B2-46A
+Hillion,Ayam Penyet President,Malay,Yes,#B2-57/58
+Hillion,Beef Bro,Malay,Limited,#01-27
+Hillion,Bonchon,Korean,Yes,#01-40/41
+Hillion,Common Grill by COLLIN's,Western,Yes,#B2-66
+Hillion,Dian Xiao Er,Chinese,Yes,#01-08/09/10
+Hillion,Genki Sushi,Japanese,Yes,#01-14
+Hillion,Han's,Western,Yes,#B2-28/29/30
+Hillion,Hong Kong Sheng Kee Dessert,Chinese,Limited,#B2-47
+Hillion,Ichikokudo Hokkaido Ramen,Japanese,Yes,#01-01/02
+Hillion,Kebabwala,Turkish,Limited,#B2-18
+Hillion,Kei Kaisendon,Japanese,Limited,#B1-41
+Hillion,KFC,Fast Food,Yes,#B2-54/55/56
+Hillion,Pizza Hut Express,Fast Food,No,#B2-54/55/56
+Hillion,King of Prawn Noodles,Chinese,Yes,#B2-03/04/05
+Hillion,Let's Eat!,Chinese,Yes,#B2-26/27
+Hillion,Long John Silver's,Fast Food,Yes,#B1-57/58/59
+Hillion,Maki-San,Japanese,No,#B2-07
+Hillion,McDonald's,Fast Food,Yes,#B1-25/26/27
+Hillion,Men Men Don Don,Japanese,LImited,#B2-52
+Hillion,Mos Burger,Fast Food,Yes,#B2-60
+Hillion,My Briyani House,Malay,Yes,#01-17/18
+Hillion,Pastamania,Italian,Yes,#B2-48/49/50
+Hillion,Pontian Wanton Noodles,Chinese,Limited,#B2-25
+Hillion,Purple Panda Diner,Fusion,Yes,#01-35 to 39
+Hillion,Qi Ji,Local,Limited,#B2-16
+Hillion,Saizeriya,Italian,Yes,#B1-20/21/22
+Hillion,Sushi Express,Japanese,Yes,#01-19/20/21
+Hillion,The Hainan Story,Local,Yes,#01-15/16
+Hillion,The Soup Spoon Union,Western,Yes,#01-05/06
+Hillion,Tongue Tip Lanzhou Beef Noodles,Chinese,Yes,#01-07
+Hillion,Tori-Q,Japanese,Limited,#01-13
+Hillion,ToriGO,Fusion,Yes,#B1-37 to 40
+Hillion,Tuk Tuk Cha,Thai,Yes,#01-03/04
+Hillion,Wingstop,Fast Food,Yes,#B2-59
+Hillion,Kopitiam,Various,Yes,#02-15 to 20
+Hillion,Lee Wee & Brothers,Local,No,#B2-36
+Hillion,Nam Kee Pau,Chinese,No,#B2-34
+Canteen,Noodles Store,,,
+Canteen,Nyonya Store,,,
+Canteen,Hor Fun Store,,,
+Canteen,Carrot Cake Store,,,
+Canteen,Chicken Rice Store,,,
+Canteen,Yong Tau Foo Store,,,
+Canteen,Mixed Rice Store,,,
+Canteen,Western Store,,,
